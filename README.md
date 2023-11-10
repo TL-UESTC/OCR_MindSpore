@@ -2,7 +2,7 @@
 
 ## How to install
 
-This code is based on [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch). Please follow the instructions at https://github.com/KaiyangZhou/Dassl.pytorch#installation to install `dassl`.
+This code is based on [Dassl.mindspore](https://github.com/Tongzhou-uestc/Dassl.mindspore)). Please follow the instructions at  to install `dassl`.
 
 ## How to run
 
